@@ -61,7 +61,7 @@ Streamlit
 │── README.md
 
 ▶️ **How to Run**
-git clone https://github.com/your-username/customer-segmentation.git
+git clone https://github.com/Jadhav-Sameer/Customer_Segmentation_using_ML.git
 cd customer-segmentation
 pip install -r requirements.txt
 streamlit run app.py
