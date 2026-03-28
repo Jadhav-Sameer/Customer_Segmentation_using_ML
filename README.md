@@ -56,7 +56,7 @@ Streamlit
 
 📂 **Project Structure**
 │── data/
-│── notebooks
+│── notebook
 │── app.py
 │── README.md
 
